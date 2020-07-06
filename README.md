@@ -9,8 +9,7 @@ Then you will find a "index.html" file in there.
 3. Double click the "index.html" file
 It will automatically open the "The Unconventional Calculator" website in your browser
 
-now you have done it. soooo the next step is tooooo
-4. Enjoy!
+now you have done it. soooo the next step is tooooo Enjoy!
 
 Do whatever with the project! 
 Explore the coding inside it! 
