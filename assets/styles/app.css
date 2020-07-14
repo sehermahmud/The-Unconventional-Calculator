@@ -77,3 +77,29 @@ header {
   margin-top: 1rem;
   text-align: center;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  color: white;
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+}
+
+main {
+  margin-bottom: 10rem;
+}
+
+.github {
+  color: hotpink;
+  text-decoration: none;
+}
+
+.github:hover,
+.github:active {
+  color: red;
+  text-decoration: none;
+}
